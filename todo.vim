@@ -1,5 +1,3 @@
-command Todo :e $SCANGAJ/TODO.todo
-
 function! SetupTodos()
 	setlocal foldmethod=indent
 	setlocal shiftwidth=2
